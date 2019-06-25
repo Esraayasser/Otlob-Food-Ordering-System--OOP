@@ -1,0 +1,8 @@
+//recieved-canceled|id|address|ordersDate|comment|Delivery boy ID|Resturant|customerID|category,foodname,quantity
+1|0|Cairo,6th of October - Hosary and Ahyaa',26 July St,5,7|28-2-2018|Very good|2|McDonald's|2|Happy Meal,Happy Meal Double Cheeseburger,2
+1|1|Cairo,6th of October - Hosary and Ahyaa',25 July St,5,7|28-3-2017|Perfect|2|McDonald's|3|McSalads,Chicken Caesar Salad,1,Menu El Fakka,Cheeseburger Sandwich,2
+1|2|Cairo,6th of October - Hosary and Ahyaa',23 July St,5,7|23-4-2018|No comment|5|McDonald's|4|Mix 2 Meal,Mix 2 Meal - Small,3
+0|3|Cairo,6th of October - Hosary and Ahyaa',24 July St,5,7|22-5-2017|Tastes bad|6|McDonald's|2|Sharing Box,Grand Share Box,2
+1|4|Cairo,6th of October - Hosary and Ahyaa',27 July St,5,7|28-4-2018|Tasty|9|McDonald's|4|Fish Combo Value Meals,Filet-O-Fish - Medium,2
+1|5|Cairo,6th of October - Hosary and Ahyaa',21 July St,5,7|09-2-2016|Nice|4|McDonald's|1|Happy Meal,McNuggets 4 pieces,30
+0|6|Cairo,6th of October - Hosary and Ahyaa',cedny,65,4,1|4-5-2018|hehe x-x|2|McDonald's|2|50 Years Big Mac,50 Years Big Mac - Regular,1
